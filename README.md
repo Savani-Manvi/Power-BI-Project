@@ -4,8 +4,7 @@ This repository contains a Power BI projects focused on analyzing [sales dashboa
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Data Sources](#data-sources)
+- [Key Features](#key-features)\
 - [Getting Started](#getting-started)
 - [Report Details](#report-details)
 - [File Structure](#file-structure)
@@ -22,17 +21,9 @@ This Power BI project aims to [briefly describe the purpose and objectives of th
 - **User-driven Parameters**: Enabled dynamic filtering and user-driven parameters to customize the visualizations.
 - **Data Connections and Calculations**: Integrated data from multiple sources and performed advanced calculations using DAX and Power Query.
 
-## Data Sources
-
-The following data sources were used in this project:
-- **[Data Source 1]**: [Brief description of the data source, e.g., an Excel file with sales data from 2023]
-- **[Data Source 2]**: [Brief description of the data source, e.g., SQL database containing customer information]
-  
-Ensure that you have access to the necessary data sources when using this project.
-
 ## Getting Started
 
-To use this Power BI project on your local machine:
+To use this Power BI project on your local machine.
 
 1. **Clone the Repository**:
    ```bash
