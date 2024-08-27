@@ -4,11 +4,8 @@ This repository contains a Power BI projects focused on analyzing [sales dashboa
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Key Features](#key-features)\
+- [Key Features](#key-features)
 - [Getting Started](#getting-started)
-- [Report Details](#report-details)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ## Project Overview
 
@@ -25,6 +22,6 @@ This Power BI project aims to [briefly describe the purpose and objectives of th
 
 To use this Power BI project on your local machine.
 
-1. **Clone the Repository**:
+**Clone the Repository**:
    ```bash
    https://github.com/Savani-Manvi/Power-BI-Project.git
