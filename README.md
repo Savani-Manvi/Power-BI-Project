@@ -36,4 +36,4 @@ To use this Power BI project on your local machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Power-BI-Project.git
+   git clone https://github.com/Savani-Manvi/Power-BI-Project.git
